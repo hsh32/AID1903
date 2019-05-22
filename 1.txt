@@ -19,4 +19,3 @@ BVI1 is down, line protocol is down
      0 packets output, 0 bytes, 0 total output drops
 
 从前从前有只毛毛虫
-
